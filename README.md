@@ -27,7 +27,7 @@ For example, it is **not straightforward** to define models that may have **mult
 
  - This is done by specifying where the input comes from when defining each new layer. A bracket notation is used, such that after the layer is created, the layer from which the input to the current layer comes from is specified.
 
-[Jupyter Notebook](./Functional-API.ipynb)
+[Jupyter Notebook](./Functional_API.ipynb)
 
  
 
